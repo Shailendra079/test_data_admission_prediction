@@ -1,0 +1,2 @@
+# test_data_admission_prediction
+Project title :- Test data admission prediction.            Description :- To test whether a female has more likelihood to get admission or not.             Input/Output :- how much times a female is more likelihood to get admission than male.               Use case :-  in any college/school we get identify if the female can get more chances to get admission than male.
